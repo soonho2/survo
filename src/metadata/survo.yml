@@ -1,0 +1,27 @@
+# PURL configuration for http://purl.obolibrary.org/obo/survo
+
+idspace: SURVO
+base_url: /obo/survo
+
+products:
+- survo.owl: https://raw.githubusercontent.com/marieALaporte/survo/master/survo.owl
+- survo.obo: https://raw.githubusercontent.com/marieALaporte/survo/master/survo.obo
+
+term_browser: ontobee
+example_terms:
+- SURVO_0000000
+
+entries:
+
+- prefix: /releases/
+  replacement: https://raw.githubusercontent.com/marieALaporte/survo/v
+
+- prefix: /tracker/
+  replacement: https://github.com/marieALaporte/survo/issues
+
+- prefix: /about/
+  replacement: http://www.ontobee.org/ontology/SURVO?iri=http://purl.obolibrary.org/obo/
+
+## generic fall-through, serve direct from github by default
+- prefix: /
+  replacement: https://raw.githubusercontent.com/marieALaporte/survo/master/
