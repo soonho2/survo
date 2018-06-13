@@ -1,0 +1,3 @@
+http://purl.obolibrary.org/obo/RO_0000059 ## concretizes
+http://purl.obolibrary.org/obo/RO_0002234 ## has output
+http://purl.obolibrary.org/obo/BFO_0000055 ## realizes 

@@ -6,5 +6,6 @@
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/survo/imports/agro_import.owl" uri="imports/agro_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/survo/imports/pco_import.owl" uri="imports/pco_import.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/survo/imports/sdgio_import.owl" uri="imports/sdgio_import.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/survo/imports/ro_import.owl" uri="imports/ro_import.owl"/>
     <group id="Folder Repository, directory=, recursive=false, Auto-Update=false, version=2" prefer="public" xml:base=""/>
 </catalog>
