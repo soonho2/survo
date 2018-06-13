@@ -3,7 +3,7 @@
 
 # survo
 
-This ontology... YOUR DESCRIPTION HERE
+This ontology provides semantics to represent the socio-economic surveys of CGIAR Platform for Big data in Agriculture.
 
 ## Versions
 
